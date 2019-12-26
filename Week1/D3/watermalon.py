@@ -1,0 +1,9 @@
+x=int(input())
+if(x%2==0):
+    y=x//2
+    if(y>1):
+        print("Yes\n")
+    else:
+        print("No\n")
+else:
+    print("No\n")
