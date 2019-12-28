@@ -1,3 +1,6 @@
+'''
+This is an answer for contest problem on 'https://codeforces.com/contest/1282/problem/A'
+'''
 test=eval(input())
 words=[]
 for i in range(test):
